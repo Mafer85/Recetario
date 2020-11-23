@@ -122,5 +122,5 @@ USE_TZ = True
 STATIC_URL = '/static/'
 
 GRAPHENE={
-'SCHEMA':'parcial.schema.schema'
+'SCHEMA':'recetario.schema.schema'
 }
